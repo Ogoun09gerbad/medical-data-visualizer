@@ -1,5 +1,4 @@
 
-```markdown
 # Medical Data Visualizer
 
 This project is part of the freeCodeCamp Data Analysis with Python certification.
@@ -113,7 +112,3 @@ This project was completed as part of the freeCodeCamp Data Analysis with Python
 ## 📜 License
 
 This project is for educational purposes only.
-
-```
-
----
